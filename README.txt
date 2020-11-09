@@ -1,0 +1,1 @@
+Each file is for an exercice. except exercice 6: 2 files: modular (principal program) and mymudule (function)
